@@ -43,14 +43,14 @@ body {
 
 }
 .titulo {
-  margin-bottom: 500px;
+  margin-bottom: 400px;
   margin-left: 40px;
   margin-right: 40px;
   font-family: "Lora", serif;
   color: rgb(139, 192, 241);
   position: absolute;
-  font-weight: 500;
-  letter-spacing: 2px;
+  font-weight: 400;
+  letter-spacing: 1px;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
